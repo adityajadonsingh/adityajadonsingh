@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @adityajadonsingh
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Networking, Python, VM's
-- 💞️ I’m looking to collaborate on Python Projects on CyberSec
-- 📫 How to reach me Insta: adityajadon19
+- 👀 I’m interested in Website Development
+- 🌱 I’m currently learning React.js, Node.js, AWS
+- 💞️ I’m looking to collaborate on Web Projects
+- 📫 How to reach me Insta: _adityajadon__
 
 <!---
 adityajadonsingh/adityajadonsingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
